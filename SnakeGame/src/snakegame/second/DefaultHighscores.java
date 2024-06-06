@@ -10,7 +10,7 @@ public class DefaultHighscores {
         defaultMap.put("murvey", 47);
         defaultMap.put("dunj", 43);
         defaultMap.put("mih", 38);
-        defaultMap.put("krstian", 33);
+        defaultMap.put("kristian", 33);
         defaultMap.put("sopa", 28);
         defaultMap.put("baka", 13);
 
