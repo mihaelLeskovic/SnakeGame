@@ -20,7 +20,7 @@ public class MenuPanel extends JPanel {
         JPanel iconPanel = new JPanel();
         BufferedImage image = null;
         try {
-            image = ImageIO.read(new File("C:\\Users\\mih\\IdeaProjects\\SnakeGame\\res\\snake.png"));
+            image = ImageIO.read(new File("res\\snake.png"));
         } catch (IOException e) {
             e.printStackTrace();
         }
